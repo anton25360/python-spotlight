@@ -1,2 +1,2 @@
-# python-spotlight
+# Spotlight
 WIP
